@@ -40,3 +40,4 @@ Kaikki 10 malliasiakirjaa perusteluineen ja pykäläviittauksineen on koottu kah
 ## 3. Tutkimuksen tausta-aineisto
 
 - [research_data/2026-09-03_tutkimusprompt-chatgpt.md](research_data/2026-09-03_tutkimusprompt-chatgpt.md) – Alkuperäinen laaja toimeksianto ja metodologiset periaatteet (42 kB)
+- [research_data/2026-09-07_targeted_legal_update_kko_lvv.md](research_data/2026-09-07_targeted_legal_update_kko_lvv.md) – Kohdennettu oikeuskäytäntöpäivitys 2024–2026 (KKO:2025:17, KHO:2026:62, KHO:2024:86) ja Lupa- ja valvontavirasto (LVV) -uudistus (21 kB)

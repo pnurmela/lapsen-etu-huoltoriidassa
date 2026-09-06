@@ -622,18 +622,51 @@ LVV ohjaa tietoturva- ja lokiasioissa ensisijaisesti toimintayksikön ja tietosu
 
 ---
 
-# 10.14 Kantelu Lupa- ja valvontavirastolle
+# 10.14 Lupa- ja valvontaviraston (LVV) asema ja valvonta vuonna 2026
 
-## 10.14.1 LVV:n asema vuonna 2026
+## 10.14.1 Vuoden 2026 suuri viranomaisuudistus ja säädöspohja
 
-Lupa- ja valvontavirasto on vuodesta 2026 lähtien keskeinen valtakunnallinen valvontaviranomainen muun muassa:
+Suomen valtion aluehallinnon ja sektorivalvonnan rakenne muuttui perustavanlaatuisesti **1.1.2026**. 
+* **Laki Lupa- ja valvontavirastosta (530/2025)** (HE 13/2025) perusti uuden valtakunnallisen viraston, johon yhdistettiin aiemmat Sosiaali- ja terveysalan lupa- ja valvontavirasto (Valvira), kuusi aluehallintovirastoa (AVI) sekä eräitä ELY-keskusten tehtäviä. Vanhat virastot lakkasivat 31.12.2025.
+* **Sosiaali- ja terveydenhuollon valvonnasta annettu laki (741/2023)** (voimaan 1.1.2024) loi yhtenäisen valvontakehyksen ja rekisteröintivelvoitteen, jota muutettiin LVV-rakenteeseen sopivaksi lailla **766/2025**.
 
-* sosiaali- ja terveydenhuollossa
-* varhaiskasvatuksessa
-* esi- ja perusopetuksessa
-* useissa opetuksen oikaisuvaatimusasioissa.
+> [!IMPORTANT]
+> **Kriittinen oikeudellinen periaate: Organisaatiouudistus ei tarkoita valitusteiden yleiskeskittämistä.**  
+> Vaikka valtion valvontaviranomaiset yhdistyivät yhteen organisaatioon, **substantiaaliset erityislait määräävät edelleen sen, mihin kunkin asian muutoksenhaku tehdään**. 
+> * Perusopetuslain 42 §:n mukainen oikaisuvaatimus osoitetaan LVV:lle (määräaika **14 päivää**).
+> * Varhaiskasvatuslain 15 e §:n mukainen tehostetun/erityisen tuen oikaisuvaatimus osoitetaan LVV:lle (määräaika **30 päivää**). Muut varhaiskasvatuspäätökset oikaistaan kunnan monijäseniselle toimielimelle (VakavaL 62 §).
+> * Sosiaalihuoltolain mukainen yksilöpäätös oikaistaan **hyvinvointialueen monijäseniselle toimielimelle (30 päivää)**, EI LVV:lle!
+> * Terveydenhuollon hoitopäätöksistä ei ole lainkaan yleistä oikaisuvaatimusta LVV:lle; käytössä on muistutus ja kantelu.
 
-Koulutuksen ja varhaiskasvatuksen oikaisuvaatimukset, jotka aiemmin osoitettiin aluehallintovirastolle, osoitetaan 1.1.2026 alkaen LVV:lle. ([Lupa- ja valvontavirasto][12])
+```mermaid
+flowchart TD
+    A[Kansalainen / Lapsen huoltaja]
+
+    subgraph Koulu ja Varhaiskasvatus
+        A -->|Perusopetuslaki 42 §: Tukipäätös ym.<br/>Määräaika 14 pv| LVV_OIK[LVV Oikaisuvaatimus]
+        A -->|Varhaiskasvatuslaki 15 e §: Tuki<br/>Määräaika 30 pv| LVV_VAK[LVV Oikaisuvaatimus]
+        A -->|Muut varhaiskasvatuspäätökset| KUNTA_ELIN[Kunnan toimielin]
+    end
+
+    subgraph Sosiaalihuolto ja Lastensuojelu
+        A -->|Sosiaalihuoltolaki: Palvelupäätös<br/>Määräaika 30 pv| HVA_OIK[Hyvinvointialueen toimielin / jaosto]
+        HVA_OIK -->|Valitus| HAO[Hallinto-oikeus]
+        A -->|Lastensuojelulaki: Rajoitus- tai pakkopäätös| HAO
+    end
+
+    subgraph Terveydenhuolto
+        A -->|Hoito- tai diagnoosierimielisyys| T_MUIST[Muistutus yksikköön]
+    end
+
+    subgraph Valtion laillisuusvalvonta
+        A -->|Lainvastainen menettely tai laadunvalvonta| LVV_KANT[LVV Kantelu]
+        A -->|Ylin laillisuusvalvonta| EOAK[Oikeusasiamies / Oikeuskansleri]
+    end
+```
+
+> [!WARNING]
+> **Siirtymäkauden viranomaisohjeistuksen laahaaminen (OPH vs. LVV):**  
+> Julkisessa viranomaisohjauksessa esiintyy siirtymäkauden virheitä. Esimerkiksi Opetushallituksen (OPH) verkkosivuilla viitataan syksyllä 2026 edelleen vanhentuneesti Aluehallintovirastoon (AVI) varhaiskasvatuksen tukipäätöksen oikaisuviranomaisena. Oikeudellisesti toimivalta on siirtynyt täysimääräisesti LVV:lle. Menettelyissä ja lomakkeissa on aina käytettävä viraston ajantasaista nimeä ja yhteystietoja.
 
 ## 10.14.2 Mitä LVV voi tehdä?
 
