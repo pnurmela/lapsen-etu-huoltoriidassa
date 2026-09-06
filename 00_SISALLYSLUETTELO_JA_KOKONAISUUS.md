@@ -25,7 +25,7 @@ Tämä dokumentti jäsentää tutkimusaineiston nykytilan, tiedostorakenteen sek
 | [14. Koottu lähdeluettelo](file:///c:/personal/huoltoneuvoja/research_data/osa_14_lahdeluettelo.md) | Täysi bibliografia ja oikeuslähteet | 32 kB (Tallennettu) |
 | [15. Ristiriita- ja lähdetarkastus](file:///c:/personal/huoltoneuvoja/research_data/osa_15_ristiriita_ja_lahdetarkastus.md) | Lähteiden ristiriita- ja luotettavuusanalyysi | 18 kB (Tallennettu) |
 | [16. Executive summary – lapsen edun turvaaminen](file:///c:/personal/huoltoneuvoja/research_data/osa_16_executive_summary.md) | Yhteenveto, periaatteet ja viranomaisohjeistus | 15 kB (Tallennettu) |
-| [20–24. Erillisteemat (luonnosarkisto)](file:///c:/personal/huoltoneuvoja/research_data/osa_00_raportin_jatko_mallit_6_10_ja_osiot_20_24.md) | Neutraali kirjaus, synteesi ja johtopäätökset | 27 kB (Tallennettu) |
+| [17. Raporttirakenne ja sisällysluettelo](file:///c:/personal/huoltoneuvoja/research_data/osa_17_raporttirakenne_ja_sisallysluettelo.md) | Tutkimusarkkitehtuurin erittely | 16 kB (Tallennettu) |
 
 ---
 
@@ -35,11 +35,8 @@ Kaikki 10 malliasiakirjaa perusteluineen ja pykäläviittauksineen on koottu kah
 - [research_data/osa_12_malliasiakirjat_osa1.md](file:///c:/personal/huoltoneuvoja/research_data/osa_12_malliasiakirjat_osa1.md) (palvelutarve, julkisuuslaki, oikaisupyyntö, muistutus, kantelu)
 - [research_data/osa_12_malliasiakirjat_osa2.md](file:///c:/personal/huoltoneuvoja/research_data/osa_12_malliasiakirjat_osa2.md) (tukipäätökset, tapaamisesteet, terveystiedot, asiantuntijaryhmä, turvallisuusarvio)
 
-Alkuperäiset lyhyet luonnoskatkelmat on arkistoitu kansioon [research_data/osa_00_raportin_jatko_mallit_6_10_ja_osiot_20_24.md](file:///c:/personal/huoltoneuvoja/research_data/osa_00_raportin_jatko_mallit_6_10_ja_osiot_20_24.md).
-
 ---
 
 ## 3. Tutkimuksen tausta-aineisto
 
 - [research_data/2026-09-03_tutkimusprompt-chatgpt.md](file:///c:/personal/huoltoneuvoja/research_data/2026-09-03_tutkimusprompt-chatgpt.md) – Alkuperäinen laaja toimeksianto ja metodologiset periaatteet (42 kB)
-- [research_data/2026-09-03_chatgpt_tutkimusraportti.md](file:///c:/personal/huoltoneuvoja/research_data/2026-09-03_chatgpt_tutkimusraportti.md) – Aiemmin generoitu tutkimusmateriaali (31 kB)
