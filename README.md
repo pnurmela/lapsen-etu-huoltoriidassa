@@ -135,7 +135,7 @@ Jos hyödynnät tätä aineistoa tutkimuksessa, opinnäytteessä tai viranomaiso
   year         = {2026},
   publisher    = {GitHub},
   journal      = {GitHub repository},
-  howpublished = {\url{https://github.com/pekkanurmela/huoltoneuvoja}}
+  howpublished = {\url{https://github.com/pnurmela/eroriita_huoltoneuvoja}}
 }
 ```
 
