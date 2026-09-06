@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# System logs and temp files
+*.log
+.system_generated/
+scratch/
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
