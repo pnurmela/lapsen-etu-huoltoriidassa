@@ -32,14 +32,13 @@ Tämä dokumentti jäsentää tutkimusaineiston nykytilan, tiedostorakenteen sek
 
 ---
 
-## 2. Erilliset malliasiakirjat (yksittäistiedostoina)
+## 2. Malliasiakirjat (koottu lukuun 12)
 
-Työtilassa on lisäksi erillistiedostoina osa malliasiakirjoista, jotka sisältyvät myös luvun 12 koosteeseen:
-- [6. Pyyntö muutoksenhakukelpoisesta päätöksestä.md](file:///c:/personal/huoltoneuvoja/6.%20Pyynt%C3%B6%20muutoksenhakukelpoisesta%20p%C3%A4%C3%A4t%C3%B6ksest%C3%A4.md)
-- [7. Asiakirjapyyntö.md](file:///c:/personal/huoltoneuvoja/7.%20Asiakirjapyynt%C3%B6.md)
-- [8. Virheellisen tai puutteellisen kirjauksen oikaisu- ja täydennyspyyntö.md](file:///c:/personal/huoltoneuvoja/8.%20Virheellisen%20tai%20puutteellisen%20kirjauksen%20oikaisu-%20ja%20t%C3%A4ydennyspyynt%C3%B6.md)
-- [9. Sosiaalihuollon muistutus.md](file:///c:/personal/huoltoneuvoja/9.%20Sosiaalihuollon%20muistutus.md)
-- [10. Kantelun runko valvontaviranomaiselle.md](file:///c:/personal/huoltoneuvoja/10.%20Kantelun%20runko%20valvontaviranomaiselle.md)
+Kaikki 10 malliasiakirjaa perusteluineen ja pykäläviittauksineen on koottu kahteen kattavaan kokonaisuuteen:
+- [12. Malliasiakirjat - osa I mallit 1-5.md](file:///c:/personal/huoltoneuvoja/12.%20Malliasiakirjat%20-%20osa%20I%20mallit%201-5.md) (palvelutarve, julkisuuslaki, oikaisupyyntö, muistutus, kantelu)
+- [12. Malliasiakirjat – osa II mallit 6–10.md](file:///c:/personal/huoltoneuvoja/12.%20Malliasiakirjat%20%E2%80%93%20osa%20II%20mallit%206%E2%80%9310.md) (tukipäätökset, tapaamisesteet, terveystiedot, asiantuntijaryhmä, turvallisuusarvio)
+
+Alkuperäiset lyhyet luonnoskatkelmat on arkistoitu kansioon [research_data/osa_00_raportin_jatko_mallit_6_10_ja_osiot_20_24.md](file:///c:/personal/huoltoneuvoja/research_data/osa_00_raportin_jatko_mallit_6_10_ja_osiot_20_24.md).
 
 ---
 
