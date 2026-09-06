@@ -65,7 +65,7 @@ Koko aineisto on jaettu aihepiireittäin selkeisiin moduuleihin:
 * **[11. Käytännön 30 päivän toimintasuunnitelma](11.%20Käytännön%2030%20päivän%20toimintasuunnitelma.md)** – Nelivaiheinen järjestelmällinen malli tilanteen vakauttamiseksi ja oikeusturvan varmistamiseksi.
 * **[12. Malliasiakirjat (Osa I & Osa II)](12.%20Malliasiakirjat%20-%20osa%20I%20mallit%201-5.md)** – 10 käyttövalmista asiakirjapohjaa perusteluineen.
 * **[16. Executive Summary](research_data/osa_16_executive_summary.md)** – Tiivistetty kokonaiskuva viranomaistoiminnan pelisäännöistä.
-* **[20–24. Erillisteemat](20.%20Neutraalin%20kirjauksen%20malli.md)** – Neutraali kirjaaminen, avoimet oikeuskysymykset ja koottu lähdeluettelo.
+* **[13–15. Syventävät teemat & lähdeluettelo](research_data/osa_13_avoimet_ja_epavarmat_oikeuskysymykset.md)** – Avoimet oikeuskysymykset, lähdekritiikki ja kattava lähdeluettelo.
 
 ---
 

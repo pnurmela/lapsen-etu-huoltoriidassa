@@ -21,14 +21,11 @@ Tämä dokumentti jäsentää tutkimusaineiston nykytilan, tiedostorakenteen sek
 | [11. Käytännön 30 päivän toimintasuunnitelma.md](file:///c:/personal/huoltoneuvoja/11.%20K%C3%A4yt%C3%A4nn%C3%B6n%2030%20p%C3%A4iv%C3%A4n%20toimintasuunnitelma.md) | Prosessien haltuunotto ja dokumentoinnin käynnistys | 53 kB (Tallennettu) |
 | [12. Malliasiakirjat - osa I mallit 1-5.md](file:///c:/personal/huoltoneuvoja/12.%20Malliasiakirjat%20-%20osa%20I%20mallit%201-5.md) | Mallipohjat 1–5 (mm. selvityspyynnöt, lausumat) | 46 kB (Tallennettu) |
 | [12. Malliasiakirjat – osa II mallit 6–10.md](file:///c:/personal/huoltoneuvoja/12.%20Malliasiakirjat%20%E2%80%93%20osa%20II%20mallit%206%E2%80%9310.md) | Mallipohjat 6–10 (mm. päätöspyynnöt, oikaisut) | 53 kB (Tallennettu) |
-| **13–15. Syventävät osiot** | Mahdolliset erityiskysymykset / väkivalta / salassapito | *Odottaa tuontia* |
-| [16. Executive summary – lapsen edun turvaaminen vaikeassa huoltoriidassa.md](file:///c:/personal/huoltoneuvoja/16.%20Executive%20summary%20%E2%80%93%20lapsen%20edun%20turvaaminen%20vaikeassa%20huoltoriidassa.md) | Yhteenveto, periaatteet ja viranomaisohjeistus | 10 kB (Tallennettu) |
-| **17–19. Syventävät teemat** | Mahdolliset lisäluvut | *Odottaa tuontia* |
-| [20. Neutraalin kirjauksen malli.md](file:///c:/personal/huoltoneuvoja/20.%20Neutraalin%20kirjauksen%20malli.md) | Viranomaiskirjaamisen objektiivisuus ja faktapohjaisuus | 2 kB (Tallennettu) |
-| [21. Avoimet ja epävarmat oikeuskysymykset.md](file:///c:/personal/huoltoneuvoja/21.%20Avoimet%20ja%20ep%C3%A4varmat%20oikeuskysymykset.md) | Lainaukot, tulkinnanvaraisuudet ja lainsäädäntötarpeet | 7 kB (Tallennettu) |
-| [22. Tutkimustiedon yhteenveto ja lähdekritiikki.md](file:///c:/personal/huoltoneuvoja/22.%20Tutkimustiedon%20yhteenveto%20ja%20l%C3%A4hdekritiikki.md) | Monitieteisen tutkimuksen analyysi ja arviointi | 3 kB (Tallennettu) |
-| [23. Koottu lähdeluettelo.md](file:///c:/personal/huoltoneuvoja/23.%20Koottu%20l%C3%A4hdeluettelo.md) | Säädökset, esityöt, oikeuskäytäntö, valvontaratkaisut ja tutkimuskirjallisuus | 3 kB (Tallennettu) |
-| [24. Lopullinen vastaus tutkimuksen ydinkysymykseen.md](file:///c:/personal/huoltoneuvoja/24.%20Lopullinen%20vastaus%20tutkimuksen%20ydinkysymykseen.md) | Synteesi ja johtopäätökset viranomaistoiminnalle | 2 kB (Tallennettu) |
+| [13. Avoimet ja epävarmat oikeuskysymykset](file:///c:/personal/huoltoneuvoja/research_data/osa_13_avoimet_ja_epavarmat_oikeuskysymykset.md) | Syventävä analyysi tulkinnanvaraisuuksista | 46 kB (Tallennettu) |
+| [14. Koottu lähdeluettelo](file:///c:/personal/huoltoneuvoja/research_data/osa_14_lahdeluettelo.md) | Täysi bibliografia ja oikeuslähteet | 32 kB (Tallennettu) |
+| [15. Ristiriita- ja lähdetarkastus](file:///c:/personal/huoltoneuvoja/research_data/osa_15_ristiriita_ja_lahdetarkastus.md) | Lähteiden ristiriita- ja luotettavuusanalyysi | 18 kB (Tallennettu) |
+| [16. Executive summary – lapsen edun turvaaminen](file:///c:/personal/huoltoneuvoja/research_data/osa_16_executive_summary.md) | Yhteenveto, periaatteet ja viranomaisohjeistus | 15 kB (Tallennettu) |
+| [20–24. Erillisteemat (luonnosarkisto)](file:///c:/personal/huoltoneuvoja/research_data/osa_00_raportin_jatko_mallit_6_10_ja_osiot_20_24.md) | Neutraali kirjaus, synteesi ja johtopäätökset | 27 kB (Tallennettu) |
 
 ---
 
@@ -44,5 +41,5 @@ Alkuperäiset lyhyet luonnoskatkelmat on arkistoitu kansioon [research_data/osa_
 
 ## 3. Tutkimuksen tausta-aineisto
 
-- [2026-09-03_tutkimusprompt-chatgpt.md](file:///c:/personal/huoltoneuvoja/2026-09-03_tutkimusprompt-chatgpt.md) – Alkuperäinen laaja toimeksianto ja metodologiset periaatteet (42 kB)
-- [2026-09-03_chatgpt_tutkimusraportti.md](file:///c:/personal/huoltoneuvoja/2026-09-03_chatgpt_tutkimusraportti.md) – Aiemmin generoitu tutkimusmateriaali (31 kB)
+- [research_data/2026-09-03_tutkimusprompt-chatgpt.md](file:///c:/personal/huoltoneuvoja/research_data/2026-09-03_tutkimusprompt-chatgpt.md) – Alkuperäinen laaja toimeksianto ja metodologiset periaatteet (42 kB)
+- [research_data/2026-09-03_chatgpt_tutkimusraportti.md](file:///c:/personal/huoltoneuvoja/research_data/2026-09-03_chatgpt_tutkimusraportti.md) – Aiemmin generoitu tutkimusmateriaali (31 kB)
