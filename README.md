@@ -115,7 +115,7 @@ Aineisto on luotu käyttäen autonomista moniagenttiarkkitehtuuria (yhteensä yl
 * Kielto käyttää ei-oikeudellisia leimaavia käsitteitä ratkaisuperusteina ilman konkreettisia tekoja ja lapsivaikutuksia.
 * Ristiintarkistus ylimpien tuomioistuinten ja laillisuusvalvojien ennakkoratkaisuihin.
 
-Metodologiaa, promptirakenteita ja järjestelmäarkkitehtuuria koskevat tiedostot ovat tutkittavissa kansiossa `research_data/` ja tiedostossa [2026-09-03_tutkimusprompt-chatgpt.md](2026-09-03_tutkimusprompt-chatgpt.md).
+Metodologiaa, promptirakenteita ja järjestelmäarkkitehtuuria koskevat tiedostot ovat tutkittavissa kansiossa `research_data/` ja tiedostossa [2026-09-03_tutkimusprompt-chatgpt.md](research_data/2026-09-03_tutkimusprompt-chatgpt.md).
 
 ---
 
