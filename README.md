@@ -54,6 +54,8 @@ Tämä tietopankki jäsentää **kunkin viranomaisen itsenäiset toimivaltarajat
 Koko aineisto on jaettu aihepiireittäin selkeisiin moduuleihin kansiossa `research_data/`:
 
 * **[00. Kokonaisuus ja sisällysluettelo](00_SISALLYSLUETTELO_JA_KOKONAISUUS.md)** – Koko raportin kartta ja lukujen tilanne.
+* **[01. Johdanto ja tutkimusasetelma](research_data/osa_01_johdanto_ja_tutkimusasetelma.md)** – Tutkimuksen tausta, ydinkysymys, rajaus, metodi ja oikeuslähdeoppi.
+* **[02. Lähtötilanne ja tutkimusongelma](research_data/osa_02_lahtotilanne_ja_tutkimusongelma.md)** – Moniongelmaisen huoltoriidan anatomia, viranomaisloukku sekä 10 keskeistä johtopäätöstä.
 * **[03. Käsitteet ja oikeuslähteiden painoarvo](research_data/osa_03_kasitteet_ja_oikeuslahteiden_painoarvo.md)** – Oikeuslähdeoppi, normihierarkia ja vaikeiden termien ("vieraannuttaminen", "huoltokiusaaminen", "prosessiväkivalta") oikeudellinen arvio.
 * **[04. Lainsäädäntökartta](research_data/osa_04_lainsaadantokartta.md)** – Sovellettavat lait sektoreittain (siviili-, sosiaali-, opetus-, terveys- ja hallinto-oikeus).
 * **[05. Viranomaisten vastuunjakotaulukko](research_data/osa_05_viranomaisten_vastuunjakotaulukko.md)** – Toimivaltarajat: Käräjäoikeus vs. Lastensuojelu vs. Koulu vs. Terveydenhuolto.

@@ -7,9 +7,8 @@ Tämä dokumentti jäsentää tutkimusaineiston nykytilan, tiedostorakenteen sek
 ## 1. Pääluvut ja tutkimuksen runko
 
 | Luku / Tiedosto | Aihepiiri / Sisältö | Koko / Tila |
-| :--- | :--- | :--- |
-| **01. Johdanto ja tutkimusasetelma** | Tutkimuksen tausta, ydinkysymys, rajaus ja metodi | *Odottaa tuontia* |
-| **02. Lähtötilanne ja tutkimusongelma** | Moniongelmaisen huoltoriidan anatomia ja viranomaisloukku | *Odottaa tuontia* |
+| [01. Johdanto ja tutkimusasetelma](file:///c:/personal/huoltoneuvoja/research_data/osa_01_johdanto_ja_tutkimusasetelma.md) | Tutkimuksen tausta, ydinkysymys, rajaus ja metodi | 8 kB (Tallennettu) |
+| [02. Lähtötilanne ja tutkimusongelma](file:///c:/personal/huoltoneuvoja/research_data/osa_02_lahtotilanne_ja_tutkimusongelma.md) | Moniongelmaisen huoltoriidan anatomia ja viranomaisloukku | 8 kB (Tallennettu) |
 | [03. Käsitteet ja oikeuslähteiden painoarvo](file:///c:/personal/huoltoneuvoja/research_data/osa_03_kasitteet_ja_oikeuslahteiden_painoarvo.md) | Terminologia, oikeuslähdeoppi ja normihierarkia | 60 kB (Tallennettu) |
 | [04. Lainsäädäntökartta](file:///c:/personal/huoltoneuvoja/research_data/osa_04_lainsaadantokartta.md) | Sääntelykehyksen systematisointi eri sektoreittain | 91 kB (Tallennettu) |
 | [05. Viranomaisten vastuunjakotaulukko](file:///c:/personal/huoltoneuvoja/research_data/osa_05_viranomaisten_vastuunjakotaulukko.md) | Toimivaltarajat: tuomioistuin, sosiaalitoimi, koulu, terveydenhuolto | 68 kB (Tallennettu) |
