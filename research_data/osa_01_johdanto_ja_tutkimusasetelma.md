@@ -71,3 +71,38 @@ Tutkimusraportti jakautuu neljään toisiaan täydentävään kokonaisuuteen:
   Erillinen analyysi avoimista oikeuskysymyksistä, kattava lähdeluettelo, normitarkastus sekä tiivistelmä (*Executive Summary*).
 
 Kokonaisrakenne ja suorat linkit kaikkiin lukuihin löytyvät kootusti dokumentista [00_SISALLYSLUETTELO_JA_KOKONAISUUS.md](file:///c:/personal/huoltoneuvoja/00_SISALLYSLUETTELO_JA_KOKONAISUUS.md).
+
+
+---
+
+## 1.6 Aineiston kohderyhmät ja monikäyttöisyys: Eronneet, ammattilaiset ja tekoälyagentit
+
+Tämä tutkimus ja sen tietovaranto on alusta alkaen suunniteltu ja strukturoitu palvelemaan **kolmea erillistä käyttäjäkuntaa**:
+
+1. **Eron kohdanneet vanhemmat (Kansalaiset):**
+   * Tarjoaa puolueettoman, selkokielisen ja de-eskaloivan (rauhoittavan) tilannekuvan akuutissa erokriisissä.
+   * Auttaa hahmottamaan omat ja lapsen oikeudet ilman kalliita virheitä ja estää asioiden vahingollisen sekoittumisen (esim. elatusmaksujen ja tapaamisoikeuden kytkeminen).
+   * Antaa suorat, juridisesti perustellut toimintakortit ja asiakirjamallit arjen asiointiin.
+
+2. **Sosiaali-, kasvatus- ja oikeusalan ammattilaiset:**
+   * Kokoaa yhteen poikkihallinnollisen normiston (18 keskeistä lakia) ja selkeyttää eri toimijoiden väliset toimivaltarajat.
+   * Tarjoaa suoraan sovellettavat päätöksentekomatriisit (mm. varhaiskasvatus ja perusopetus) sekä hyvän hallinnon ja kirjaamisen tarkistuslistat.
+   * Tukee ammattilaisia silloin, kun vanhempien ristiriitaiset vaatimukset uhkaavat lamauttaa lapsen lakisääteisen tuen.
+
+3. **Tekoälyagentit ja kielimallijärjestelmät (Token- ja prosessointitehokkuus):**
+   * **Valmiiksi esisyntetisoitu tieto:** Laaja, tuhansia sivuja kattava säädösmassa, hallituksen esitykset, KKO:n ennakkopäätökset ja laillisuusvalvojien ratkaisut on järjestetty modulaarisiksi, ristiviitatuiksi ja tiiviiksi tietolohkoiksi.
+   * **Merkittävät token- ja laskentasäästöt:** Kun tekoälyagentti (esim. RAG- tai moniagenttijärjestelmä) hyödyntää tätä valmiiksi jäsennettyä tietokantaa, sen ei tarvitse suorittaa kymmeniä raskaita, hitaita ja kalliita hakuja Finlexiin tai oikeusrekistereihin. Tämä minimoi konteksti-ikkunan token-kulutuksen, nopeuttaa vastausaikoja ja pienentää API-kustannuksia moninkertaisesti.
+   * **Hallusinaatioiden ehkäisy:** Agentille tarjotaan suoraan normihierarkkisesti ja ajallisesti ankkuroidut toimivaltasäännöt, jolloin malli ei sekoita eri oikeudenaloja tai vanhentuneita säädöksiä toisiinsa.
+
+---
+
+## 1.7 Tutkijan tausta ja positionaalisuus (Researcher Positionality)
+
+Tutkimuskokonaisuuden laatija Pekka Nurmela on ohjelmisto- ja tekoälyarkkitehti, jolla on pitkä kokemus monimutkaisten tietojärjestelmien, soveltavan tekoälyn ja autonomisten agenttiarkkitehtuurien suunnittelusta. Tutkimusmenetelmässä hyödynnetään systeemistä informaatioarkkitehtuuria, sääntölogiikkaa ja tekoälyavusteista normimallinnusta.
+
+Perehtyneisyys vaativiin erotilanteisiin ja perheiden kohtaamiin kriiseihin perustuu Miessakit ry:n **Erosta Elossa -toiminnan ryhmänvetäjäkoulutukseen ja käytännön kokemukseen eronneiden miesten ja isien vertaisryhmien vetäjänä**. Vertaisryhmissä käsitellään erokriisin inhimillisiä ja psykologisia vaiheita, voimakkaita tunnekuohuja sekä vanhempien kohtaamaa juridista ja viranomaisellista todellisuutta.
+
+**Läpinäkyvä ammatillinen rajaus:**  
+Tekijällä ei ole muodollista tutkintoa oikeustieteestä, hyvinvointijuridiikasta, sosiaalityöstä tai varhaiskasvatuksen pedagogiikasta. Perehtyneisyys kumpuaa syvästä kiinnostuksesta teemoja kohtaan sekä käytännön kokemuksesta vertaistuen tarjoamisessa haastavissa erotilanteissa. 
+
+Tästä syystä tutkimus ei esiinny yksilöllisenä asianajollisena neuvontana, vaan monitieteisenä sääntö- ja prosessijärjestelmän mallinnuksena. Aineiston substanssin, lainkohtien ja pedagogisten linjausten 100 % oikeellisuuden varmistamiseksi tutkimuskokonaisuus on saatettu erillisen **asiantuntijaverkoston** (asianajajat, sosiaalihuollon virkajohto, järjestöasiantuntijat ja päiväkodin johto) arvioitavaksi ja auditoitavaksi.

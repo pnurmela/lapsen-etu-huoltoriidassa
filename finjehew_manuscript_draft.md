@@ -8,8 +8,8 @@
 ---
 
 ### Tekijätiedot ja affiliaatiot
-**Kirjoittaja:** Pekka Nurmela ym. / Huoltoneuvoja-tutkimushanke  
-**Affiliaatio:** Positive Productions / Itsenäinen tutkimusryhmä  
+**Kirjoittaja:** Pekka Nurmela (ohjelmisto- ja tekoälyarkkitehti; koulutettu Miessakit ry:n Erosta Elossa -vertaisryhmänvetäjä)  
+**Affiliaatio:** Positive Productions / Huoltoneuvoja-tutkimushanke  
 **Yhteystiedot:** pekka@positiveproductions.fi  
 **Tutkimusajankohta:** Syyskuu 2026  
 
@@ -148,6 +148,13 @@ Tutkimuksen tuloksilla on suoraa annettavaa sosiaali- ja terveydenhuollon tiedon
 ### 4.3 Tutkimuksen rajoitteet
 
 Tutkimus perustui simuloidun agenttijärjestelmän suorittamaan normianalyysiin ja oikeuslähteiden systematisointiin. Vaikka normipohja kattoi säädöskokoelman kattavasti, tutkimuksessa ei käsitelty elävää potilas- tai asiakasdataa, eikä mallia integroitu suoraan hyvinvointialueiden tuotantotietojärjestelmiin. Jatkotutkimuksessa olisi arvioitava, miten vastaava agenttiavusteinen säädösmallinnus toimii reaaliaikaisena päätöksenteon tukijärjestelmänä sosiaalityöntekijöiden ja opiskeluhuollon kuraattorien arjessa.
+
+### 4.3 Tutkimusdatan hyödynnettävyys ja tekoälyagenttien token-optimointi
+
+Tämän tutkimuksen yhteydessä syntynyt strukturoitu data-arkkitehtuuri ja säädöskartasto on suunniteltu palvelemaan suoraan kolmea toisiaan tukevaa käyttötapausta:
+1. **Erokriisissä olevat vanhemmat:** Selkokielinen ja de-eskaloiva juridinen tilannekuva poistaa pelkoja ja auttaa vanhempaa välttämään viranomaisloukkuja.
+2. **Sosiaali- ja opetusalan ammattilaiset:** Toimivaltarajat ja päätöksentekomatriisit tarjoavat nopean selkänojan arjen paineessa.
+3. **Tuotantotason tekoälyagentit (LLM / RAG -järjestelmät):** Säädösten, ennakkotapausten ja viranomaisohjeiden esisyntetisoitu ja modulaarinen tallennusmuoto tuottaa **radikaaleja token- ja laskentasäästöjä**. Kun autonominen agentti hyödyntää valmiiksi jäsenneltyä toimivaltatietokantaa sen sijaan, että se joutuisi käsittelemään tuhansia sivuja pirstaleista Finlex-raakatekstiä tai hallituksen esityksiä, mallin konteksti-ikkunan kuormitus pienenee murto-osaan, päättelyviive lyhenee ja virheellisten hallusinaatioiden todennäköisyys minimoituu.
 
 ---
 

@@ -1,6 +1,15 @@
 # Lapsen edun turvaaminen vaikeassa huoltoriidassa – Tutkielman rakenne ja työtilakartta
 
-Tämä dokumentti jäsentää tutkimusaineiston nykytilan, tiedostorakenteen sekä puuttuvat osat laajan tutkielmakokonaisuuden hallitsemiseksi.
+Tämä tutkimuskokonaisuus ja tietovaranto systematisoi monialaisen lapsi-, perhe- ja hyvinvointioikeuden toimivaltarajat, prosessipolut ja oikeussuojakeinot.
+
+### Tekijän tausta ja tutkimuspositio
+Tutkimuksen laatija **Pekka Nurmela** on ohjelmisto- ja tekoälyarkkitehti (Positive Productions). Perehtyneisyys vaikeisiin huoltoriitoihin ja perhekriiseihin perustuu Miessakit ry:n **Erosta Elossa -toiminnan ryhmänvetäjäkoulutukseen ja käytännön kokemukseen vertaisryhmien vetäjänä** (erokriisin inhimilliset vaiheet ja osapuolten oikeudellinen kehys). Tekijällä ei ole muodollista juridista tai sosiaalityön tutkintoa; aineisto on mallinnettu systeemiarkkitehtuurin keinoin ja alistettu monialaisen asiantuntijaverkoston (asianajajat, sosiaalialan virkajohto, päiväkodin johto) arvioitavaksi.
+
+### Aineiston käyttötarkoitus: Kolme kohderyhmää
+Tutkimuksen data on moduloitu ja avattu hyödynnettäväksi kolmelle taholle:
+1. **Eron kohdanneille vanhemmille:** Selkokielinen de-eskaloiva tilannekuva, viranomaisloukkujen välttäminen ja käytännön asiakirjamallit.
+2. **Sote- ja kasvatusalan ammattilaisille:** Selkeät toimivaltarajat, päätösvallan matriisit ja kirjaamisen standardit.
+3. **Tekoälyagenteille ja RAG-järjestelmille:** Valmiiksi esisyntetisoitu tieto **säästää merkittävästi tokeneita ja prosessointiresursseja**, nopeuttaa vasteaikoja ja ehkäisee hallusinaatioita tuotantojärjestelmissä.
 
 ---
 
