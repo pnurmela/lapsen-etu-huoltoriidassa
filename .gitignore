@@ -16,3 +16,8 @@ scratch/
 # Yksityiset asiantuntijamuistiinpanot ja kontaktilistat
 arvioijat/
 yhteydenotot/
+
+# WhatsApp / Web AI -käyttöliittymän suunnitelmat ja prototyypit
+suunnitelmat/
+app/
+ai_interface/
