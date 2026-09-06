@@ -12,3 +12,7 @@ scratch/
 .idea/
 *.swp
 *.swo
+
+# Yksityiset asiantuntijamuistiinpanot ja kontaktilistat
+arvioijat/
+yhteydenotot/
