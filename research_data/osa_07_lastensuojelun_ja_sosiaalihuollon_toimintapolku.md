@@ -1212,7 +1212,6 @@ Ratkaisusta ei voida johtaa sitä, että:
 
 23. **EOAK/4063/2022 ja THL:n vuoden 2026 ohje tukevat aktiivista, lapsikeskeistä ja koordinoitua työskentelyä**, mutta eivät anna lastensuojelulle toimivaltaa ratkaista vanhempien juridista huoltoriitaa.
 
-**Seuraava raporttiluku on luku 8: Oikeuskäytäntö.**
 
 [1]: https://finlex.fi/fi/laki/ajantasa/2003/20030434 "https://finlex.fi/fi/laki/ajantasa/2003/20030434"
 [2]: https://thl.fi/ohjeita-ammattilaisille/lastensuojelun-rooli-vaativissa-erotilanteissa "https://thl.fi/ohjeita-ammattilaisille/lastensuojelun-rooli-vaativissa-erotilanteissa"

@@ -1185,7 +1185,6 @@ Diagnoosin kaltaiset leimat heikentävät usein asian arvioitavuutta.
 
 28. **Tehokas oikeussuojakirjelmä perustuu tekoihin, päivämääriin, päätöksiin ja lapsivaikutuksiin**, ei toisen vanhemman yleiseen luonne- tai diagnoosiarvioon.
 
-**Seuraava raporttiluku on luku 11: Käytännön 30 päivän toimintasuunnitelma**, joka jaetaan välittömiin turvallisuustoimiin, ensimmäisen viikon asiakirjatyöhön, kahden viikon palvelu- ja päätöspyyntöihin sekä 1–3 kuukauden oikeudellisiin menettelyihin.
 
 [1]: https://lvv.fi/sosiaali-ja-terveydenhuolto/muistutus-tai-kantelu?doAsUserId=cjcdkwzde%2Fkontakt%2Fcontact_information%3FlanguageId%3Dfi_FI "https://lvv.fi/sosiaali-ja-terveydenhuolto/muistutus-tai-kantelu?doAsUserId=cjcdkwzde%2Fkontakt%2Fcontact_information%3FlanguageId%3Dfi_FI"
 [2]: https://poliisi.fi/fi/tee-rikosilmoitus "https://poliisi.fi/fi/tee-rikosilmoitus"

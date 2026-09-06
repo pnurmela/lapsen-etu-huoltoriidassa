@@ -123,7 +123,7 @@ Vaan esimerkiksi:
 
 > ”Olemme kuulleet molempia huoltajia, arvioineet oppilaan tuen tarpeen ja teemme opetuksen järjestäjälle kuuluvan päätöksen käytettävissä olevan selvityksen perusteella.”
 
-Tämä ei tarkoita, että koulu voisi yksipuolisesti ratkaista asian, joka todella kuuluu huoltajien yhteiseen päätösvaltaan. Tarkka rajanveto käsitellään seuraavassa raporttiluvussa 6.
+Tämä ei tarkoita, että koulu voisi yksipuolisesti ratkaista asian, joka todella kuuluu huoltajien yhteiseen päätösvaltaan. Tarkka rajanveto käsitellään luvussa 6.
 
 ---
 
@@ -386,7 +386,6 @@ Paikallisessa täydennyksessä on myöhemmin tarkistettava ainakin:
 * vaativien erotilanteiden erityispalvelut
 * lähisuhdeväkivallan ja vainon palvelupolut.
 
-**Seuraava raporttiluku on luku 6: Päätösvallan matriisi koulua ja varhaiskasvatusta varten.**
 
 [1]: https://thl.fi/ohjeita-ammattilaisille/lastensuojelun-rooli-vaativissa-erotilanteissa "https://thl.fi/ohjeita-ammattilaisille/lastensuojelun-rooli-vaativissa-erotilanteissa"
 [2]: https://www.oph.fi/fi/koulutus-ja-tutkinnot/hallintopaatosprosessi-tukea-koskeva-paatos "https://www.oph.fi/fi/koulutus-ja-tutkinnot/hallintopaatosprosessi-tukea-koskeva-paatos"

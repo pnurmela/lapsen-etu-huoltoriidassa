@@ -1059,7 +1059,6 @@ Rehtorin, opettajan, päiväkodin johtajan ja muiden viranhaltijoiden täsmälli
 
 20. **Lapsikeskeinen toimintasuunnitelma ei ratkaise huoltoriitaa**, mutta se estää koulua tai päiväkotia joutumasta riidan viestinviejäksi ja auttaa turvaamaan lapsen opetuksen, tuen, tiedonsaannin ja turvallisen arjen.
 
-**Seuraava raporttiluku on luku 7: Lastensuojelun ja sosiaalihuollon toimintapolku.**
 
 [1]: https://finlex.fi/fi/lainsaadanto/1983/361 "https://finlex.fi/fi/lainsaadanto/1983/361"
 [2]: https://oikeusasiamies.fi/documents/235872516/250541620/eoa-6970-2024.pdf/428c6fee-4345-2cf0-bbbb-492de0f78ae3 "https://oikeusasiamies.fi/documents/235872516/250541620/eoa-6970-2024.pdf/428c6fee-4345-2cf0-bbbb-492de0f78ae3"

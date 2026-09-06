@@ -385,7 +385,6 @@ Tämä luku muodostaa valtakunnallisen oikeudellisen kartan. Tehtävänannon pai
 
 Paikallinen ohje voi täsmentää työnjakoa ja asiointia, mutta se ei saa kaventaa laissa säädettyä lapsen oikeutta, huoltajan oikeusturvaa tai viranomaisen velvollisuutta. Tehtävänanto edellyttää paikallisen tutkimuksen tekemistä vasta valtakunnallisen analyysin jälkeen ja paikallisten ohjeiden oikeuslähdeaseman ilmoittamista. 
 
-**Seuraava raporttiluku on luku 5: Viranomaisten vastuunjakotaulukko.**
 
 [1]: https://finlex.fi/fi/lainsaadanto/saadoskokoelma "https://finlex.fi/fi/lainsaadanto/saadoskokoelma"
 [2]: https://finlex.fi/fi/lainsaadanto/1983/361 "https://finlex.fi/fi/lainsaadanto/1983/361"

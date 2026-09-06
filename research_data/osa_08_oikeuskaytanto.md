@@ -684,7 +684,6 @@ Rajoituksesta, palvelun epäämisestä tai asiakirjan antamatta jättämisestä 
 
 23. **Oikeustapausta on aina sovellettava yhdessä sen tosiseikkojen ja rajoitusten kanssa.** Ratkaisunumero ei yksin todista, että anonymisoitu perhetilanne olisi samanlainen.
 
-**Seuraava raporttiluku on luku 9: Oikeudellisesti sallittu ja ongelmallinen viranomaistoiminta.**
 
 [1]: https://finlex.fi/fi/oikeuskaytanto/korkein-oikeus/ennakkopaatokset "https://finlex.fi/fi/oikeuskaytanto/korkein-oikeus/ennakkopaatokset"
 [2]: https://korkeinoikeus.fi/ennakkopaatokset/ennakkopaatokset-vuosittain/kko202586/ "https://korkeinoikeus.fi/ennakkopaatokset/ennakkopaatokset-vuosittain/kko202586/"

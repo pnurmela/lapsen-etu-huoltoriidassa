@@ -2,7 +2,7 @@
 
 **Tutkimuspäivä: 4.9.2026**
 
-Lähdeasiakirja edellyttää kymmentä rauhallista ja lapsikeskeistä mallipohjaa. Niissä ei saa syyttää toista vanhempaa ilman yksilöityjä tosiseikkoja. Tässä ensimmäisessä osassa laaditaan mallit 1–5; mallit 6–10 muodostavat luvun seuraavan osan. 
+Luvussa esitetään kymmenen rauhallista ja lapsikeskeistä malliasiakirjapohjaa, joissa toista vanhempaa ei syytetä ilman yksilöityjä tosiseikkoja ja joissa keskitytään lapsen edun turvaamiseen. Tässä ensimmäisessä osassa käsitellään mallit 1–5; mallit 6–10 muodostavat luvun toisen osan. 
 
 ## 12.1 Mallien yhteiset käyttöperiaatteet
 
@@ -911,7 +911,6 @@ Mallien tarkoitus ei ole tuottaa mahdollisimman paljon viranomaiskirjeenvaihtoa.
 
 > **Mikä asia on vireillä – kuka siitä vastaa – mitä tietoa tarvitaan – mitä päätetään – milloin päätös tehdään – miten lapsen etu turvataan – miten ratkaisuun voi hakea muutosta?**
 
-**Luvun 12 seuraavassa osassa laaditaan malliasiakirjat 6–10: muutoksenhakukelpoinen päätöspyyntö, asiakirjapyyntö, kirjauksen korjauspyyntö, sosiaalihuollon muistutus ja valvontakantelun runko.**
 
 [1]: https://stm.fi/sosiaalipalvelujen-saatavuus?utm_source=chatgpt.com "Sosiaalipalvelujen saatavuus - Sosiaali- ja terveysministeriö"
 [2]: https://thl.fi/ohjeita-ammattilaisille/palvelutarpeen-arviointi-vammaispalveluissa/monialainen-yhteistyo-palvelutarpeen-arvioinnissa?utm_source=chatgpt.com "Monialainen yhteistyö palvelutarpeen arvioinnissa - THL"

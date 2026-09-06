@@ -811,7 +811,6 @@ Kuukauden kohdalla tavoitetila on:
 
 20. **Kuukauden tavoite ei ole ratkaista kaikkia vanhempien välisiä riitoja**, vaan varmistaa, ettei lapsi jää ilman turvallisuusarviota, vastuuhenkilöä, palvelua, päätöstä tai oikeussuojaa.
 
-**Seuraava raporttiluku on luku 12: Malliasiakirjat. Sen ensimmäisessä osassa laaditaan malliasiakirjat 1–5 ja toisessa osassa malliasiakirjat 6–10.**
 
 [1]: https://www.poliisi.fi/tee-rikosilmoitus?utm_source=chatgpt.com "Tee rikosilmoitus - asioi ensisijaisesti verkossa! - Poliisi"
 [2]: https://thl.fi/ohjeita-ammattilaisille/lastensuojelun-rooli-vaativissa-erotilanteissa?utm_source=chatgpt.com "Lastensuojelun rooli vaativissa erotilanteissa - THL"

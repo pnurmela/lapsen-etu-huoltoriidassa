@@ -596,5 +596,3 @@ STM:n vuoden 2025 selvitys tukee yleisemmällä tasolla havaintoa siitä, että 
 * Paikalliset käytännöt voivat vaihdella huomattavasti, mutta ne eivät saa kaventaa valtakunnalliseen lakiin tai tuomioistuimen päätökseen perustuvia oikeuksia.
 * Juristin yksilöllinen arvio on erityisen perusteltu silloin, kun usean lain rajapinta vaikuttaa samalla lapsen turvallisuuteen, huoltajien päätösvaltaan ja palvelun saamiseen.
 * Oikeudellisen epävarmuuden aikana lapsen tarvitsemaa ajankohtaista tukea ei saa lykätä vain siksi, ettei vanhempien välistä historiallista tapahtumankulkua pystytä ratkaisemaan varmasti.
-
-Seuraava ja raportin viimeinen varsinainen luku on luku 14: Lähdeluettelo. Siinä lähteet ryhmitellään alkuperäisen toimeksiannon mukaisesti lainsäädäntöön, esitöihin, tuomioistuinratkaisuihin, laillisuusvalvontaan, viranomaisohjeisiin, kansallisiin selvityksiin ja vertaisarvioituun tutkimukseen.

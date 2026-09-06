@@ -1015,7 +1015,6 @@ Sosiaali- ja terveydenhuollossa muistutus on yleensä kantelua nopeampi ensivaih
 
 28. **Viranomaisen lainmukaisuutta arvioidaan kokonaisuutena:** toimivalta, turvallisuus, selvittäminen, osallisuus, kirjaaminen, päätös, toimeenpano, yhteistyö ja seuranta.
 
-**Seuraava raporttiluku on luku 10: Oikeussuojakeinot**, jossa esitetään toimijakohtainen etenemisjärjestys, määräajat, päätös- ja muutoksenhakureitit sekä muistutuksen, kantelun, tietosuojamenettelyn ja tuomioistuinhakemusten keskinäinen suhde.
 
 [1]: https://finlex.fi/fi/lainsaadanto/saadoskokoelma/2003/434 "https://finlex.fi/fi/lainsaadanto/saadoskokoelma/2003/434"
 [2]: https://finlex.fi/fi/laki/ajantasa/2003/20030434?search%5Bnimike%5D=hallintolaki "https://finlex.fi/fi/laki/ajantasa/2003/20030434?search%5Bnimike%5D=hallintolaki"

@@ -1,6 +1,6 @@
 # 17. Lopullinen raporttirakenne ja sisällysluettelo
 
-Raportin sisältö kannattaa nyt lukita yhdeksi kokonaisuudeksi siten, että varsinainen tutkimus muodostuu luvuista 1–14 ja niiden jälkeen tulevat raportin laadunvarmistus- ja käyttöosat. Executive summary kannattaa nostaa heti alkuun ennen yksityiskohtaista tutkimusta.
+Tutkimusraportin kokonaisuus muodostuu luvuista 1–14 sekä niitä täydentävistä laadunvarmistus-, lähde- ja sovellusosioista. Johdantona toimii tiivistelmä (Executive Summary).
 
 ## Suositeltu lopullinen rakenne
 
@@ -644,6 +644,4 @@ Tämä estää sen, että esimerkiksi yksittäisestä KKO-ratkaisusta tehdään 
 
 ## 17.7 Lopputulos
 
-Raportin **sisällöllinen tutkimusvaihe on nyt valmis**, ja rakenne voidaan lukita 14 varsinaiseen lukuun.
-
-Seuraava konkreettinen työvaihe on **toimituksellinen yhdistäminen**: poistetaan toisto, viedään luvun 15 tarkistuskorjaukset alkuperäisiin kohtiin, siirretään executive summary alkuun ja yhdenmukaistetaan kaikki taulukot, termit, lähdeviitteet ja määräajat.
+Tutkimusraportin rakenne ja sisältökokonaisuus on lukittu 14 varsinaiseen lukuun ja niitä täydentäviin soveltamis- ja tarkastusosioihin.

@@ -1,6 +1,5 @@
 # 15. Raportin ristiriita- ja lähdetarkastus
-Tarkistus tehty 6.9.2026
-Kävin läpi raportin keskeiset oikeudelliset väitteet erityisesti niiltä osin, joissa vuoden 2026 lakimuutokset, uusi Lupa- ja valvontavirasto tai eri prosessien määräajat voivat helposti aiheuttaa virheitä. Kokonaisuutena raportin päälinjat ovat kunnossa, mutta ennen lopullista yhdistämistä tekisin muutaman täsmennyksen.
+Tämä luku kokoaa raportin keskeisten oikeudellisten väitteiden ristiriita- ja lähdetarkastuksen erityisesti niiltä osin, joissa vuoden 2026 lakimuutokset, uusi Lupa- ja valvontavirasto tai eri prosessien määräajat voivat aiheuttaa tulkintaongelmia.
 
 ## 15.1 Vahvistetut ydinkohdat
 Ensimmäinen tärkeä vahvistus koskee koulun tukipäätöksiä. Perusopetuslain 20 f §:n mukaisesta oppilaskohtaisesta tuesta on tehtävä viipymättä hallintopäätös. Opetushallituksen 12.6.2026 päivitetty ohje sanoo lisäksi nimenomaisesti, että huoltajan vastustus ei estä päätöksen tekemistä. Jos yksimielisyyttä ei synny, toimivaltainen viranhaltija ratkaisee asian. Tämä raportissa toistuva pääväite voidaan siis säilyttää vahvana. ([Opetushallitus](https://www.oph.fi/fi/koulutus-ja-tutkinnot/hallintopaatosprosessi-tukea-koskeva-paatos?utm_source=chatgpt.com))
@@ -179,5 +178,3 @@ Raportin keskeisiä johtopäätöksiä ei tarvitse muuttaa. Tarkistus ennemmin v
 Merkittävin varsinainen korjaustarve on varhaiskasvatuksen muutoksenhakureitin täsmällinen rajaaminen sekä kaikkien vuoden 2026 viranomaisnimien yhtenäistäminen.
 
 Lisäksi löytyi yksi hyödyllinen lähdekriittinen havainto: vaikka OPH:n varhaiskasvatuksen tukipäätössivu on tuore, siinä esiintyy edelleen vanha sana ”aluehallintovirasto”, kun taas vuoden 2026 laki osoittaa oikaisuvaatimuksen Lupa- ja valvontavirastolle. Tässä raportissa Finlexin ajantasainen laki asetetaan tämän yksittäisen verkkosivun sanamuodon edelle. ([Opetushallitus](https://www.oph.fi/fi/koulutus-ja-tutkinnot/hallintopaatos-lapsen-tuesta-varhaiskasvatuksessa?utm_source=chatgpt.com))
-
-Seuraava vaihe on nyt raportin varsinainen loppukoonti: yhtenäinen kansilehti, sisällysluettelo, 1–14 lukujen harmonisoitu teksti, lähdeviittausten yhdenmukaistaminen sekä erillinen 1–2 sivun executive summary / viranomaiskäyttöön tarkoitettu tiivistelmä.

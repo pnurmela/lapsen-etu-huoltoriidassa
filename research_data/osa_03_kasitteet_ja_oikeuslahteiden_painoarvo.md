@@ -928,7 +928,6 @@ Näitä ilmaisuja ei pidä siirtää asianosaisen kertomuksesta työntekijän om
 
 12. **Jokainen nimike on purettava teoiksi, lähteiksi, lapsivaikutuksiksi ja sovellettavaksi oikeudeksi.** Tämä on edellytys sekä lapsen suojelemiselle että kummankin vanhemman oikeusturvalle.
 
-**Seuraava raporttiluku on luku 4: Lainsäädäntökartta**, jossa käsitteet sidotaan yksittäisiin lakeihin, pykäliin, voimassa oleviin sanamuotoihin ja tuleviin muutoksiin.
 
 [1]: https://korkeinoikeus.fi/fi/index/ennakkopaatokset.html "https://korkeinoikeus.fi/fi/index/ennakkopaatokset.html"
 [2]: https://oikeusasiamies.fi/usein-kysytyt-kysymykset "https://oikeusasiamies.fi/usein-kysytyt-kysymykset"

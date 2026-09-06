@@ -479,5 +479,4 @@ Tällä luvulla alkuperäisessä toimeksiannossa vaadittu 14-osainen raporttirak
 13. Avoimet ja epävarmat oikeuskysymykset
 14. Lähdeluettelo.
 
-Alkuperäinen toimeksianto edellytti juuri tätä rakennetta.
 Raportin keskeinen kokonaisjohtopäätös ei ole, että viranomaisen pitäisi ratkaista kumpi vanhemmista ”puhuu totta” ennen kuin se voi toimia. Sen sijaan eri toimijoiden on erotettava tietolähteet toisistaan, arvioitava välitön turvallisuus, kuultava lasta asianmukaisesti, hankittava ratkaisemiseen tarvittava lisäselvitys ja käytettävä omaa lakisääteistä toimivaltaansa lapsen tuen, palvelujen ja oikeusturvan turvaamiseksi.

@@ -2,7 +2,7 @@
 
 **Tutkimuspäivä: 4.9.2026**
 
-Tässä luvun 12 toisessa osassa laaditaan tehtävänannon mukaiset mallit:
+Tässä luvun 12 toisessa osassa esitetään mallit 6–10:
 
 6. pyyntö muutoksenhakukelpoisesta hallintopäätöksestä
 7. asiakirjapyyntö
@@ -1100,7 +1100,6 @@ Näitä ei kuitenkaan tehdä mekaanisesti samana päivänä. Ensin turvataan lap
 
 20. **Mallien yhteinen tavoite on tehdä lapsen asia oikeudellisesti käsiteltäväksi:** mikä tarve on olemassa, kuka vastaa, mitä päätetään, missä ajassa ja millä oikeussuojakeinolla.
 
-**Seuraava raporttiluku on luku 13: Avoimet ja epävarmat oikeuskysymykset.**
 
 [1]: https://finlex.fi/fi/laki/ajantasa/2003/20030434?utm_source=chatgpt.com "Hallintolaki | 434/2003 | Lainsäädäntö | Finlex"
 [2]: https://finlex.fi/fi/laki/alkup/1999/19990621?utm_source=chatgpt.com "Laki viranomaisten toiminnan julkisuudesta | 621/1999 | Suomen säädöskokoelma | Finlex"

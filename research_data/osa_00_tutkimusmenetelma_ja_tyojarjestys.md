@@ -1,7 +1,6 @@
 # Tutkimusmenetelmä ja työjärjestys (Deep Research -prosessin kuvaus ja vaiheet)
 
-Kyllä. Tämän raportin kohdalla yksi luku kerrallaan on selvästi turvallisempi ja laadukkaampi menettely kuin koko raportin kirjoittaminen yhdellä kertaa.
-En kuitenkaan tekisi lukuja täysin toisistaan irrallisina. Paras malli on:
+Tämän laajan tutkimusraportin tuottamisessa käytettiin vaiheittaista Deep Research -menetelmää:
 yhteinen tutkimus- ja lähdepohja ensin → yksi tarkistettava luku kerrallaan → lopuksi koko raportin yhtenäistämiskierros.
 
 Raporttipyyntö sisältää 14 varsinaista lukua, useita laajoja taulukoita, kymmenen malliasiakirjaa sekä suuren määrän erillisiä oikeuskysymyksiä. Aiempi virhe syntyi juuri siitä, että liian laajaa kokonaisuutta käsiteltiin yhtenä tuotoksena: osa rakenteesta jäi pois ja numerointi irtosi alkuperäisestä tehtävänannosta.
@@ -123,14 +122,12 @@ Yksi luku kerrallaan vähentää erityisesti neljää riskiä:
 
 ---
 
-## Suositukseni juuri tälle raportille
+## Käytetty toimitusrytmi
 
-Käyttäisin seuraavaa toimitusrytmiä:
+Prosessissa noudatettiin seuraavaa toimitusrytmiä:
 * ensin tutkimusrunko ja lähderekisterin periaatteet
 * sen jälkeen yksi varsinainen luku kerrallaan
 * hyvin laajat luvut 4, 6, 8 ja 12 tarvittaessa kahdessa tai useammassa osassa
-* jokaisen luvun jälkeen lyhyt tarkistus siitä, mitä tehtävänannon kohtia se kattaa
+* jokaisen luvun jälkeen tarkistus siitä, mitä osa-alueita se kattaa
 * lopuksi koko raportin yhdistäminen ja ristiriitatarkastus
-* tiivistelmä ja kymmenen johtopäätöstä vasta viimeisenä.
-
-Käytännössä aloittaisin luvusta 3, en luvusta 1. Tämä on tutkimuksellisesti oikea järjestys, vaikka valmiissa raportissa luku 1 sijoitetaan ensimmäiseksi. Näin saadaan sekä hallittava työprosessi että lopulta alkuperäistä 14-luvun rakennetta täsmällisesti noudattava raportti.
+* tiivistelmä ja kymmenen johtopäätöstä synteesinä.
