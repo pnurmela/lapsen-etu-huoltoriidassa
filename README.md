@@ -41,29 +41,29 @@ Tämä tietopankki jäsentää **kunkin viranomaisen itsenäiset toimivaltarajat
 
 | Kohderyhmä | Keskeinen hyöty ja luettavat osiot |
 | :--- | :--- |
-| **Sosiaalityöntekijät ja esihenkilöt** | • [Luku 7: Lastensuojelun ja sosiaalihuollon toimintapolku](7.%20Lastensuojelun%20ja%20sosiaalihuollon%20toimintapolku.md)<br>• [Luku 5: Viranomaisten vastuunjakotaulukko](5.%20Viranomaisten%20vastuunjakotaulukko.md)<br>• [Liite A: Viranomaisen tarkistuslista](research_data/liite_A_viranomaisen_tarkistuslista.md) |
-| **Koulut ja varhaiskasvatus** | • [Luku 6: Päätösvallan matriisi koulua ja varhaiskasvatusta varten](6.%20Päätösvallan%20matriisi%20koulua%20ja%20varhaiskasvatusta%20varten.md)<br>• Selkeä rajaus: huoltajan kuuleminen ei tarkoita huoltajan veto-oikeutta opetuksen tuessa |
-| **Huoltajat ja vanhemmat** | • [Liite B: Vanhemman toimintakortti](research_data/liite_B_vanhemman_toimintakortti.md)<br>• [Luku 11: Käytännön 30 päivän toimintasuunnitelma](11.%20Käytännön%2030%20päivän%20toimintasuunnitelma.md)<br>• [Valmiit malliasiakirjat (1–10)](12.%20Malliasiakirjat%20-%20osa%20I%20mallit%201-5.md) |
-| **Juristit ja oikeusavustajat** | • [Luku 8: Oikeuskäytäntö](8.%20Oikeuskäytäntö.md) (mm. KKO:2025:65, KHO:2026:62)<br>• [Luku 10: Oikeussuojakeinot ja valitustiet](10.%20Oikeussuojakeinot.md)<br>• [Luku 4: Lainsäädäntökartta pykälätasolla](4.%20Lainsäädäntökartta.md) |
+| **Sosiaalityöntekijät ja esihenkilöt** | • [Luku 7: Lastensuojelun ja sosiaalihuollon toimintapolku](research_data/osa_07_lastensuojelun_ja_sosiaalihuollon_toimintapolku.md)<br>• [Luku 5: Viranomaisten vastuunjakotaulukko](research_data/osa_05_viranomaisten_vastuunjakotaulukko.md)<br>• [Liite A: Viranomaisen tarkistuslista](research_data/liite_A_viranomaisen_tarkistuslista.md) |
+| **Koulut ja varhaiskasvatus** | • [Luku 6: Päätösvallan matriisi koulua ja varhaiskasvatusta varten](research_data/osa_06_paatosvallan_matriisi_koulua_ja_varhaiskasvatusta_varten.md)<br>• Selkeä rajaus: huoltajan kuuleminen ei tarkoita huoltajan veto-oikeutta opetuksen tuessa |
+| **Huoltajat ja vanhemmat** | • [Liite B: Vanhemman toimintakortti](research_data/liite_B_vanhemman_toimintakortti.md)<br>• [Luku 11: Käytännön 30 päivän toimintasuunnitelma](research_data/osa_11_30_paivan_toimintasuunnitelma.md)<br>• [Valmiit malliasiakirjat (1–10)](research_data/osa_12_malliasiakirjat_osa1.md) |
+| **Juristit ja oikeusavustajat** | • [Luku 8: Oikeuskäytäntö](research_data/osa_08_oikeuskaytanto.md) (mm. KKO:2025:65, KHO:2026:62)<br>• [Luku 10: Oikeussuojakeinot ja valitustiet](research_data/osa_10_oikeussuojakeinot.md)<br>• [Luku 4: Lainsäädäntökartta pykälätasolla](research_data/osa_04_lainsaadantokartta.md) |
 | **Tutkijat ja AI-kehittäjät** | • [FinJeHeW-tieteellinen käsikirjoitus](finjehew_manuscript_draft.md)<br>• Moniagenttisen normisystematisoinnin promptit, metodit ja arkkitehtuuri [research_data/](research_data/) |
 
 ---
 
 ## 📚 Tietopankin rakenne ja luvut
 
-Koko aineisto on jaettu aihepiireittäin selkeisiin moduuleihin:
+Koko aineisto on jaettu aihepiireittäin selkeisiin moduuleihin kansiossa `research_data/`:
 
 * **[00. Kokonaisuus ja sisällysluettelo](00_SISALLYSLUETTELO_JA_KOKONAISUUS.md)** – Koko raportin kartta ja lukujen tilanne.
-* **[03. Käsitteet ja oikeuslähteiden painoarvo](3.%20Käsitteet%20ja%20oikeuslähteiden%20painoarvo.md)** – Oikeuslähdeoppi, normihierarkia ja vaikeiden termien ("vieraannuttaminen", "huoltokiusaaminen", "prosessiväkivalta") oikeudellinen arvio.
-* **[04. Lainsäädäntökartta](4.%20Lainsäädäntökartta.md)** – Sovellettavat lait sektoreittain (siviili-, sosiaali-, opetus-, terveys- ja hallinto-oikeus).
-* **[05. Viranomaisten vastuunjakotaulukko](5.%20Viranomaisten%20vastuunjakotaulukko.md)** – Toimivaltarajat: Käräjäoikeus vs. Lastensuojelu vs. Koulu vs. Terveydenhuolto.
-* **[06. Päätösvallan matriisi koulua ja varhaiskasvatusta varten](6.%20Päätösvallan%20matriisi%20koulua%20ja%20varhaiskasvatusta%20varten.md)** – Milloin tarvitaan molempien huoltajien lupa ja milloin koulu tekee päätöksen itsenäisesti.
-* **[07. Lastensuojelun ja sosiaalihuollon toimintapolku](7.%20Lastensuojelun%20ja%20sosiaalihuollon%20toimintapolku.md)** – Määräajat (7 arkipäivää, 3 kk), lapsen tapaaminen ja turvallisuusarvio.
-* **[08. Oikeuskäytäntö](8.%20Oikeuskäytäntö.md)** – KKO:n ennakkoratkaisut (mm. KKO:2025:65), KHO:n ratkaisut (KHO:2026:62) ja EIT-ratkaisulinjat.
-* **[09. Oikeudellisesti sallittu ja ongelmallinen viranomaistoiminta](9.%20Oikeudellisesti%20sallittu%20ja%20ongelmallinen%20viranomaistoiminta.md)** – Hallintolain hyvän hallinnon periaatteet vs. virkavirheet ja laiminlyönnit.
-* **[10. Oikeussuojakeinot](10.%20Oikeussuojakeinot.md)** – Muutoksenhaku, oikaisuvaatimus, hallintovalitus, muistutus, kantelu ja vahingonkorvaus.
-* **[11. Käytännön 30 päivän toimintasuunnitelma](11.%20Käytännön%2030%20päivän%20toimintasuunnitelma.md)** – Nelivaiheinen järjestelmällinen malli tilanteen vakauttamiseksi ja oikeusturvan varmistamiseksi.
-* **[12. Malliasiakirjat (Osa I & Osa II)](12.%20Malliasiakirjat%20-%20osa%20I%20mallit%201-5.md)** – 10 käyttövalmista asiakirjapohjaa perusteluineen.
+* **[03. Käsitteet ja oikeuslähteiden painoarvo](research_data/osa_03_kasitteet_ja_oikeuslahteiden_painoarvo.md)** – Oikeuslähdeoppi, normihierarkia ja vaikeiden termien ("vieraannuttaminen", "huoltokiusaaminen", "prosessiväkivalta") oikeudellinen arvio.
+* **[04. Lainsäädäntökartta](research_data/osa_04_lainsaadantokartta.md)** – Sovellettavat lait sektoreittain (siviili-, sosiaali-, opetus-, terveys- ja hallinto-oikeus).
+* **[05. Viranomaisten vastuunjakotaulukko](research_data/osa_05_viranomaisten_vastuunjakotaulukko.md)** – Toimivaltarajat: Käräjäoikeus vs. Lastensuojelu vs. Koulu vs. Terveydenhuolto.
+* **[06. Päätösvallan matriisi koulua ja varhaiskasvatusta varten](research_data/osa_06_paatosvallan_matriisi_koulua_ja_varhaiskasvatusta_varten.md)** – Milloin tarvitaan molempien huoltajien lupa ja milloin koulu tekee päätöksen itsenäisesti.
+* **[07. Lastensuojelun ja sosiaalihuollon toimintapolku](research_data/osa_07_lastensuojelun_ja_sosiaalihuollon_toimintapolku.md)** – Määräajat (7 arkipäivää, 3 kk), lapsen tapaaminen ja turvallisuusarvio.
+* **[08. Oikeuskäytäntö](research_data/osa_08_oikeuskaytanto.md)** – KKO:n ennakkoratkaisut (mm. KKO:2025:65), KHO:n ratkaisut (KHO:2026:62) ja EIT-ratkaisulinjat.
+* **[09. Oikeudellisesti sallittu ja ongelmallinen viranomaistoiminta](research_data/osa_09_sallittu_ja_ongelmallinen_viranomaistoiminta.md)** – Hallintolain hyvän hallinnon periaatteet vs. virkavirheet ja laiminlyönnit.
+* **[10. Oikeussuojakeinot](research_data/osa_10_oikeussuojakeinot.md)** – Muutoksenhaku, oikaisuvaatimus, hallintovalitus, muistutus, kantelu ja vahingonkorvaus.
+* **[11. Käytännön 30 päivän toimintasuunnitelma](research_data/osa_11_30_paivan_toimintasuunnitelma.md)** – Nelivaiheinen järjestelmällinen malli tilanteen vakauttamiseksi ja oikeusturvan varmistamiseksi.
+* **[12. Malliasiakirjat (Osa I & Osa II)](research_data/osa_12_malliasiakirjat_osa1.md)** – 10 käyttövalmista asiakirjapohjaa perusteluineen: [Osa I (mallit 1–5)](research_data/osa_12_malliasiakirjat_osa1.md) ja [Osa II (mallit 6–10)](research_data/osa_12_malliasiakirjat_osa2.md).
 * **[16. Executive Summary](research_data/osa_16_executive_summary.md)** – Tiivistetty kokonaiskuva viranomaistoiminnan pelisäännöistä.
 * **[13–15. Syventävät teemat & lähdeluettelo](research_data/osa_13_avoimet_ja_epavarmat_oikeuskysymykset.md)** – Avoimet oikeuskysymykset, lähdekritiikki ja kattava lähdeluettelo.
 
