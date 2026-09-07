@@ -39,13 +39,17 @@ Tämä tietopankki jäsentää **kunkin viranomaisen itsenäiset toimivaltarajat
 
 ## 👥 Kenelle aineisto on tarkoitettu?
 
-| Kohderyhmä | Keskeinen hyöty ja luettavat osiot |
-| :--- | :--- |
-| **Sosiaalityöntekijät ja esihenkilöt** | • [Luku 7: Lastensuojelun ja sosiaalihuollon toimintapolku](research_data/osa_07_lastensuojelun_ja_sosiaalihuollon_toimintapolku.md)<br>• [Luku 5: Viranomaisten vastuunjakotaulukko](research_data/osa_05_viranomaisten_vastuunjakotaulukko.md)<br>• [Liite A: Viranomaisen tarkistuslista](research_data/liite_A_viranomaisen_tarkistuslista.md) |
-| **Koulut ja varhaiskasvatus** | • [Luku 6: Päätösvallan matriisi koulua ja varhaiskasvatusta varten](research_data/osa_06_paatosvallan_matriisi_koulua_ja_varhaiskasvatusta_varten.md)<br>• Selkeä rajaus: huoltajan kuuleminen ei tarkoita huoltajan veto-oikeutta opetuksen tuessa |
-| **Huoltajat ja vanhemmat** | • [Liite B: Vanhemman toimintakortti](research_data/liite_B_vanhemman_toimintakortti.md)<br>• [Luku 11: Käytännön 30 päivän toimintasuunnitelma](research_data/osa_11_30_paivan_toimintasuunnitelma.md)<br>• [Valmiit malliasiakirjat (1–10)](research_data/osa_12_malliasiakirjat_osa1.md) |
-| **Juristit ja oikeusavustajat** | • [Luku 8: Oikeuskäytäntö](research_data/osa_08_oikeuskaytanto.md) (mm. KKO:2025:65, KHO:2026:62)<br>• [Luku 10: Oikeussuojakeinot ja valitustiet](research_data/osa_10_oikeussuojakeinot.md)<br>• [Luku 4: Lainsäädäntökartta pykälätasolla](research_data/osa_04_lainsaadantokartta.md) |
-| **Tutkijat ja AI-kehittäjät** | • [FinJeHeW-tieteellinen käsikirjoitus](finjehew_manuscript_draft.md)<br>• Moniagenttisen normisystematisoinnin promptit, metodit ja arkkitehtuuri [research_data/](research_data/) |
+Aineisto ei ole vain yksittäisen sektorin opas, vaan se syntetisoi poikkihallinnollisesti **seitsemää toisistaan erillistä lainsäädäntö- ja tutkimusalaa**: (1) lapsi- ja perheoikeus, (2) sosiaalihuolto ja lastensuojelu, (3) koulu- ja sivistystoimi, (4) yleinen hallinto- ja julkisuusoikeus, (5) perus- ja ihmisoikeudet, (6) rikos- ja prosessioikeus sekä (7) kehitys- ja eropsykologia.
+
+Kokonaisuus ratkaisee suomalaisen viranomaiskentän vaikeinta harmaata aluetta: *miten lapsen oikeudet ja lakisääteinen tuki turvataan silloin, kun vanhemmat esittävät jyrkästi ristiriitaisia kertomuksia eikä viranomainen voi tietää varmuudella menneisyyden totuutta.*
+
+| Kohderyhmä | Sovellettavat oikeudenalat & vaativuuskonteksti | Keskeinen hyöty ja luettavat osiot |
+| :--- | :--- | :--- |
+| **Sosiaalityöntekijät ja esihenkilöt** | **Sosiaalihuolto- ja lastensuojeluoikeus, hallinto-oikeus, asiakastietolaki & GDPR**<br>• *Vaativuus:* Selvittämisvelvollisuus ja palvelutarpeen arviointi ristiriitaisten väitteiden keskellä; tiedonsaanti ja salassapidon murtaminen ilman huoltajan lupaa; lapsen henkilökohtainen tapaaminen. | • [Luku 7: Lastensuojelun ja sosiaalihuollon toimintapolku](research_data/osa_07_lastensuojelun_ja_sosiaalihuollon_toimintapolku.md)<br>• [Luku 5: Viranomaisten vastuunjakotaulukko](research_data/osa_05_viranomaisten_vastuunjakotaulukko.md)<br>• [Luku 9: Sallittu ja ongelmallinen viranomaistoiminta (kirjaamisstandardit)](research_data/osa_09_sallittu_ja_ongelmallinen_viranomaistoiminta.md)<br>• [Liite A: Viranomaisen tarkistuslista](research_data/liite_A_viranomaisen_tarkistuslista.md) |
+| **Koulut ja varhaiskasvatus** | **Koulu- ja sivistystoimi (PerusopetusL, VarhaiskasvatusL, Oppilas- ja opiskelijahuoltoL), hallintolaki**<br>• *Vaativuus:* Koulun itsenäisen toimivallan ja yhteishuollon rajapinta: huoltajan kuuleminen vs. veto-oikeus oppimisen tuessa; poissaolojen seuranta; nouto-oikeuksien ja Wilma-tunnusten jännitteet huoltoriidassa. | • [Luku 6: Päätösvallan matriisi koulua ja varhaiskasvatusta varten](research_data/osa_06_paatosvallan_matriisi_koulua_ja_varhaiskasvatusta_varten.md)<br>• Selkeä rajaus: huoltajan kuuleminen ei tarkoita huoltajan veto-oikeutta opetuksen tuessa<br>• [Luku 12 / Malli 6: Koulunkäynnin tukipäätöksen pyyntö](research_data/osa_12_malliasiakirjat_osa2.md) |
+| **Huoltajat ja vanhemmat** | **Lapsi- ja perheoikeus (huolto, tapaaminen, elatus, ositus), oikeusturvakeinot, eropsykologia**<br>• *Vaativuus:* Asioiden juridinen erillisyys (elatus, ositus ja tapaamiset eivät kytkeydy toisiinsa); viranomaisloukkujen välttäminen; asiallinen, lapsikeskeinen ja de-eskaloiva dokumentointi ilman syyttelyä. | • [Liite B: Vanhemman toimintakortti](research_data/liite_B_vanhemman_toimintakortti.md)<br>• [Luku 11: Käytännön 30 päivän toimintasuunnitelma](research_data/osa_11_30_paivan_toimintasuunnitelma.md)<br>• [Luku 2: 10 keskeistä johtopäätöstä](research_data/osa_02_lahtotilanne_ja_tutkimusongelma.md)<br>• [Valmiit malliasiakirjat (1–10)](research_data/osa_12_malliasiakirjat_osa1.md) |
+| **Juristit ja oikeusavustajat** | **Perus- ja ihmisoikeudet (YK LOS, EIS), rikos- ja prosessioikeus (lähestymiskielto, vainoaminen, pakottava kontrolli), täytäntöönpano-oikeus**<br>• *Vaativuus:* Eri prosessien näyttökynnysten erottaminen (rikosoikeus vs. lastensuojelu vs. huoltoprosessi); intertemporaalioikeus ja vuoden 2026 lainsäädäntö- ja valvontamuutokset. | • [Luku 8: Oikeuskäytäntö](research_data/osa_08_oikeuskaytanto.md) (mm. KKO:2025:65, KHO:2026:62, EOAK/4063/2022)<br>• [Luku 10: Oikeussuojakeinot ja valitustiet](research_data/osa_10_oikeussuojakeinot.md)<br>• [Luku 4: Lainsäädäntökartta pykälätasolla](research_data/osa_04_lainsaadantokartta.md)<br>• [Luku 3: Käsitteet ja normihierarkia](research_data/osa_03_kasitteet_ja_oikeuslahteiden_painoarvo.md) |
+| **Tutkijat ja AI-kehittäjät** | **Oikeusinformatiikka, sote-tiedonhallinta, poikkitieteellinen empiirinen tutkimus (meta-analyysit)**<br>• *Vaativuus:* Monimutkaisen poikkihallinnollisen normiston mallintaminen autonomisilla agenteilla ilman ajallisia tai sisällöllisiä hallusinaatioita. | • [FinJeHeW-tieteellinen käsikirjoitus](finjehew_manuscript_draft.md)<br>• [Luku 1: Johdanto ja tutkimusasetelma (metodologia)](research_data/osa_01_johdanto_ja_tutkimusasetelma.md)<br>• [Luvut 13–15: Avoimet kysymykset, lähdeluettelo ja ristiriitatarkastus](research_data/osa_13_avoimet_ja_epavarmat_oikeuskysymykset.md) |
 
 ---
 
@@ -118,6 +122,14 @@ Aineisto on luotu käyttäen autonomista moniagenttiarkkitehtuuria (yhteensä yl
 * Ristiintarkistus ylimpien tuomioistuinten ja laillisuusvalvojien ennakkoratkaisuihin.
 
 Metodologiaa, promptirakenteita ja järjestelmäarkkitehtuuria koskevat tiedostot ovat tutkittavissa kansiossa `research_data/` ja tiedostossa [2026-09-03_tutkimusprompt-chatgpt.md](research_data/2026-09-03_tutkimusprompt-chatgpt.md).
+
+### ⏱️ Arvioitu työmäärä ihmistyönä verrattuna tekoälyyn
+
+Aineistokokonaisuuden (yli 150 000 sanaa, 24 pääkappaletta, 10 malliasiakirjaa ja useita prosessikaavioita, tulosteena n. 100–150 A4-sivua) tuottaminen vastaavalla tarkkuustasolla asiantuntijatyönä arvioidaan seuraavasti:
+
+* **Yksittäinen kokenut oikeustutkija / erikoisjuristi:** n. **340 – 600 työtuntia** (vastaa noin **2,25 – 4 henkilötyökuukautta**, HTK). Työmäärä koostuu yli 25 lain pykälätarkistuksista, ennakkoratkaisujen ja laillisuusvalvojien ratkaisujen kokotekstianalyyseistä, 7 oikeudenalan toimivaltamatriisien ristiintaulukoinnista sekä juridisten asiakirjapohjien laadinnasta.
+* **Moniammatillinen selvitystyöryhmä (ministeriö- tai tutkimuslaitostaso):** n. **4 – 8 kuukauden** kalenteriaika (2–3 hengen asiantuntijatiimi: lapsi- ja hallinto-oikeus, sosiaalityö ja kehityspsykologia), jonka markkinaehtoinen asiantuntijakustannus olisi noin **45 000 – 120 000 €**.
+* **Tekoälyagenttien suoritusaika:** Moniagenttinen järjestelmä suoritti rinnakkaisen normisystematisoinnin ja ristiintaulukoinnin **yli 6 tunnin** autonomisessa laskenta-ajossa, jota täydennettiin asiantuntijan toimitustyöllä ja laadunvarmistuksella.
 
 ---
 
